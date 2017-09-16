@@ -20,5 +20,5 @@ void loop() {
   /*Serial.print("Ping: ");
   Serial.print(aDistance); // Send ping, get distance in cm and print
   Serial.println("cm");*/
-  delay(50); // jhuh
+  delay(50);
 }
