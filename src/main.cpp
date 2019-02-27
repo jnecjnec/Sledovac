@@ -15,6 +15,7 @@ void loop() {
   if ((aDistance < 5) && (aDistance > 0)) {
     pohon.Stop();
   } else {
+
     pohon.Vpred();
   }
   /*Serial.print("Ping: ");
